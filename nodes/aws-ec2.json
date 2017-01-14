@@ -16,7 +16,7 @@
   "rbenv": {
     "user_installs": [
       {
-        "user": "vagrant",
+        "user": "ec2-user",
         "rubies": ["2.3.1"],
         "global": "2.3.1",
         "gems": {
