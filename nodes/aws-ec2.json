@@ -17,10 +17,10 @@
     "user_installs": [
       {
         "user": "ec2-user",
-        "rubies": ["2.3.3"],
-        "global": "2.3.3",
+        "rubies": ["2.4.0"],
+        "global": "2.4.0",
         "gems": {
-          "2.3.3": [
+          "2.4.0": [
             { "name": "bundler" }
           ]
         }
